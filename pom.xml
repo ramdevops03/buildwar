@@ -24,7 +24,7 @@
     <groupId>test.project</groupId>
     <artifactId>web</artifactId>
     <packaging>war</packaging>
-    <version>1.0</version>
+    <version>3.0</version>
     <name>A custom project using myfaces 1.2</name>
     <url>http://www.myorganization.org</url>
 
